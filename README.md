@@ -1,8 +1,8 @@
 # Serving Tensorboard UI on startup
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/tensorboard/master?urlpath=%2fproxy%2f6006%2f) (Tensorboard)
+* `binder-oilgains/ProxyServer`: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-oilgains/tensorboard/master?urlpath=%2fproxy%2f6006%2f) (Tensorboard)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/tensorboard/master?filepath=train_model.ipynb) (notebook)
+* `binder-oilgains/TrainingNotebook`:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-oilgains/tensorboard/master?filepath=train_model.ipynb) (notebook)
 
 An example of running Jupyter notebook + tensorboard on mybinder.org. To launch tensorboard go to:
 
